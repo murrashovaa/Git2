@@ -1,0 +1,35 @@
+commit 69898c8318da271d651c2b7da1e4ac6c77dc848e
+Author: Varvara Murashova <varuny2003@yandex.ru>
+Date:   Fri Mar 10 00:30:28 2023 +0300
+
+    Add .gitignore
+
+commit 5f5d93c9380fc5449ebbdfff481bdf685e5f47e4
+Author: Varvara Murashova <varuny2003@yandex.ru>
+Date:   Thu Mar 9 23:59:27 2023 +0300
+
+    Another commit
+
+commit d3d2eb79af0ee71777497b0e8ea301742d45f912
+Author: Varvara Murashova <varuny2003@yandex.ru>
+Date:   Thu Mar 9 23:54:43 2023 +0300
+
+    Master commit
+
+commit e47e167e7af26556bf5c716b207bab744e2e7191
+Author: Varvara Murashova <varuny2003@yandex.ru>
+Date:   Thu Mar 9 23:48:22 2023 +0300
+
+    Merge
+
+commit 8e3e9c93b9a8c0c4c82f4613ceeeb2f75e30f79b
+Author: Varvara Murashova <varuny2003@yandex.ru>
+Date:   Thu Mar 9 23:37:34 2023 +0300
+
+    Second commit
+
+commit 744fc8d5c383d4bed089d8f258ead8e435e3f7a8
+Author: Varvara Murashova <varuny2003@yandex.ru>
+Date:   Thu Mar 9 23:36:45 2023 +0300
+
+    First commit
